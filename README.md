@@ -1,16 +1,68 @@
-## Hi there 👋
+# Hi, I'm Hitesh! 👋
 
-<!--
-**hitesh-kumar-dev/hitesh-kumar-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### BCA Student | Aspiring Data Analyst | Python Programmer
 
-Here are some ideas to get you started:
+I'm a Computer Applications student interested in Data Analytics, Programming, and Web Technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working with data, exploring new technologies, solving problems, and building practical projects.
+
+---
+
+### 👨‍💻 About Me
+
+- 🎓 Bachelor of Computer Applications (BCA) student.
+- 📊 Interested in Data Analytics and Data Visualization.
+- 🐍 Learning and working with Python and its libraries.
+- 🌐 Exploring Web Development.
+- 📚 Continuously improving my technical and problem-solving skills.
+
+---
+
+### 🛠️ Technical Skills
+
+**Programming Languages**
+- Python
+- JavaScript
+- SQL
+
+**Python Libraries**
+- Pandas
+- NumPy
+- Matplotlib
+
+**Data Analytics & Visualization**
+- Microsoft Power BI
+- Data Cleaning
+- Data Analysis
+- Data Visualization
+
+**Web Technologies**
+- HTML
+- CSS
+- JavaScript
+
+**Database**
+- MySQL
+
+**Tools**
+- Visual Studio Code
+- Microsoft Excel
+- Git & GitHub
+
+---
+
+### 🚀 Projects
+
+I'm building practical projects to improve my technical knowledge and gain hands-on experience.
+
+More projects coming soon!
+
+---
+
+### 🤝 Connect With Me
+
+- LinkedIn: [Hitesh](https://www.linkedin.com/in/hiteshkumar-dev/)
+
+---
+
+⭐ Thanks for visiting my profile!
