@@ -53,10 +53,15 @@ I enjoy working with data, exploring new technologies, solving problems, and bui
 
 ### 🚀 Projects
 
-I'm building practical projects to improve my technical knowledge and gain hands-on experience.
+**1. [Odisha Rainfall Analysis](https://github.com/hitesh-kumar-dev/odisha-rainfall-analysis)**
 
-More projects coming soon!
+- Analyzed rainfall data across 30 districts of Odisha (2020–2025).
+- Cleaned and processed datasets using Python and Pandas.
+- Created visualizations using Matplotlib to explore rainfall patterns.
+- Identified monthly and yearly rainfall trends.
 
+---
+More projects coming soon! 🚀
 ---
 
 ### 🤝 Connect With Me
